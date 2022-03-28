@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<!--
-**filipevirtuoso/filipevirtuoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Filipe Virtuoso, I'm a full stack web developer and I love to create things.
 
-Here are some ideas to get you started:
+- :desktop_computer: I'm software engineer student
+- :boxing_glove: Muay thai student
+- :earth_americas: Brazilian, based in Ipatinga, MG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### You can find me on
+
+📺 &nbsp; [Youtube](https://www.youtube.com/channel/UCfnq72tVw5mFOKyYqXlLqWg) <br>
+🐦 &nbsp; [Twitter](https://twitter.com/lfvirtuoso) <br>
+📷 &nbsp; [Instagram](https://www.instagram.com/filipe.virtuoso/) <br>

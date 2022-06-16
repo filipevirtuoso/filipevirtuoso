@@ -1,4 +1,4 @@
-## Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" hright="30px">
+## Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 Hi, my name is Filipe Virtuoso, I'm a full stack web developer and I love to create things.
 
